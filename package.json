@@ -1,0 +1,11 @@
+{
+  "name": "RoostersBattle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VRTEAM & KYA",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.4"
+  },
+  "start": "node server.js"
+}
